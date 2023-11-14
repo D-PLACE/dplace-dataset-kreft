@@ -1,0 +1,88 @@
+{
+    "communities": [
+        {
+            "identifier": "dplace"
+        }
+    ],
+    "title": "D-PLACE dataset derived from Kreft and Jetz 2007 'Global patterns and determinants of vascular plant diversity'",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Kreft H, Jetz W. Global patterns and determinants of vascular plant diversity. Proc Natl Acad Sci. 2007;104: 5925\u20135930.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    },
+    "creators": [
+        {
+            "name": "Kreft H."
+        },
+        {
+            "name": "Jetz W."
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Kathryn R. Kirby",
+            "type": "Editor"
+        },
+        {
+            "name": "Russell D. Gray",
+            "type": "Editor"
+        },
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Editor"
+        },
+        {
+            "name": "Fiona M. Jordan",
+            "type": "Editor"
+        },
+        {
+            "name": "Stephanie Gomes-Ng",
+            "type": "Editor"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko",
+            "type": "Editor"
+        },
+        {
+            "name": "Dami\u00e1n E. Blasi",
+            "type": "Editor"
+        },
+        {
+            "name": "Carlos A. Botero",
+            "type": "Editor"
+        },
+        {
+            "name": "Claire Bowern",
+            "type": "Editor"
+        },
+        {
+            "name": "Carol R. Ember",
+            "type": "Editor"
+        },
+        {
+            "name": "Dan Leehr",
+            "type": "Editor"
+        },
+        {
+            "name": "Bobbi S. Low",
+            "type": "Editor"
+        },
+        {
+            "name": "Joe McCarter",
+            "type": "Editor"
+        },
+        {
+            "name": "William Divale",
+            "type": "Editor"
+        },
+        {
+            "name": "Michael C. Gavin",
+            "type": "Editor"
+        }
+    ]
+}

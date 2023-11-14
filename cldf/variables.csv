@@ -1,0 +1,2 @@
+ID,Name,Description,ColumnSpec,category,type,unit,source_comment,changes,comment
+VascularPlantsRichness,Number of coexisting vascular plant species.,Number of coexisting vascular plant species.,"{""datatype"": ""decimal""}",Ecology,Continuous,,Kreft and Jetz 2007,,
